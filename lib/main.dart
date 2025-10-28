@@ -33,6 +33,6 @@ void main() {
   String resitlikDurumu= resitlik ?"reşitim" : "resit değilim";
 
 
-  print("Ben $isim $soyisim yaşım $yas ve $resitlikDurumu");  
+  print("Ben $isim $soyisim yaşım $yas ve ben $resitlikDurumu");  
 
 }
